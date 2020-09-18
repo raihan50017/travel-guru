@@ -1,0 +1,15 @@
+.spotStyle{
+    cursor: pointer;
+    opacity: .9;
+    border-radius: 20px;
+    position: relative;
+}
+.spotStyle:hover{
+    opacity: 1;
+    border: 2px solid peru;
+}
+.cardOverlay{
+    position: absolute;
+    left: 20px;
+    bottom: 30px;
+}
